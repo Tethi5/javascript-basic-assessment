@@ -70,7 +70,7 @@ var snake = {
 	runs: 'legless'
 };
 
-for()
+
 
 //#7 Create an array of strings that are the 7 primary colors in the rainbow - red, orange, yellow, green, blue, indigo, violet (lower-case). Call your array rainbowColors
 var rainbowColors = ['red','orange','yellow','green','blue','indigo','violet',];
